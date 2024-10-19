@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solis\\OneDrive\\Escritorio\\MetoProgEstruc\\EjercicioListas1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D73AF2EE-1728-4E06-8E43-66219ECB4376}|EjercicioListas1\\EjercicioListas1.csproj|c:\\users\\solis\\onedrive\\escritorio\\metoprogestruc\\ejerciciolistas1\\ejerciciolistas1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73AF2EE-1728-4E06-8E43-66219ECB4376}|EjercicioListas1\\EjercicioListas1.csproj|solutionrelative:ejerciciolistas1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Escritorio\\MetoProgEstruc\\EjercicioListas1\\EjercicioListas1\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioListas1\\Program.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Escritorio\\MetoProgEstruc\\EjercicioListas1\\EjercicioListas1\\Program.cs",
+              "RelativeToolTip": "EjercicioListas1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T02:17:49.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

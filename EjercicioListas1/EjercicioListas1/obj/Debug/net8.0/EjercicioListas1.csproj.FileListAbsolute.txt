@@ -1,0 +1,14 @@
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\EjercicioListas1\EjercicioListas1\bin\Debug\net8.0\EjercicioListas1.exe
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\EjercicioListas1\EjercicioListas1\bin\Debug\net8.0\EjercicioListas1.deps.json
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\EjercicioListas1\EjercicioListas1\bin\Debug\net8.0\EjercicioListas1.runtimeconfig.json
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\EjercicioListas1\EjercicioListas1\bin\Debug\net8.0\EjercicioListas1.dll
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\EjercicioListas1\EjercicioListas1\bin\Debug\net8.0\EjercicioListas1.pdb
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\EjercicioListas1\EjercicioListas1\obj\Debug\net8.0\EjercicioListas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\EjercicioListas1\EjercicioListas1\obj\Debug\net8.0\EjercicioListas1.AssemblyInfoInputs.cache
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\EjercicioListas1\EjercicioListas1\obj\Debug\net8.0\EjercicioListas1.AssemblyInfo.cs
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\EjercicioListas1\EjercicioListas1\obj\Debug\net8.0\EjercicioListas1.csproj.CoreCompileInputs.cache
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\EjercicioListas1\EjercicioListas1\obj\Debug\net8.0\EjercicioListas1.dll
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\EjercicioListas1\EjercicioListas1\obj\Debug\net8.0\refint\EjercicioListas1.dll
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\EjercicioListas1\EjercicioListas1\obj\Debug\net8.0\EjercicioListas1.pdb
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\EjercicioListas1\EjercicioListas1\obj\Debug\net8.0\EjercicioListas1.genruntimeconfig.cache
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\EjercicioListas1\EjercicioListas1\obj\Debug\net8.0\ref\EjercicioListas1.dll
